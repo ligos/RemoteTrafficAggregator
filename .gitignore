@@ -1,0 +1,9 @@
+﻿nfdump.ori
+nfdump.sample
+output.sample/2017-01-01.internet_usage_logs.tsv.bz2
+packages
+RemoteTrafficAggregator/bin
+RemoteTrafficAggregator/obj
+searchables
+syslog.ori
+syslog.sample
